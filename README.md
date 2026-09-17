@@ -22,7 +22,7 @@ I value **simple architecture, clean code, strong security, predictable performa
 * 🔐 Focused on authentication, authorization, permissions, API security, and secure application architecture
 * 🚀 Interested in performance engineering, scalability, caching, concurrency, and production reliability
 * 👥 Experienced in technical leadership, mentoring developers, and training teams
-* 🎓 Civil Engineer by academic background, bringing an engineering mindset to software design and problem solving
+* 🎓 Self-Tought Developer, Civil Engineer by academic background, bringing an engineering mindset to software design and problem solving
 
 ---
 
