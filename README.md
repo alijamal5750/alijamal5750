@@ -43,7 +43,6 @@ SignalR
 Hangfire
 FluentValidation
 Serilog
-Docker
 RabbitMQ
 Mass-Transit
 ```
