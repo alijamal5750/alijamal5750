@@ -1,8 +1,8 @@
 # Hi, I'm Ali Jamal 👋
 
-### Software Engineer • .NET Developer • Software Consultant
+### Principal Solutions Architect & Engineer
 
-I'm a **Software Engineer and .NET Developer with 7+ years of professional development experience**, focused on designing and building reliable, secure, and scalable business applications.
+I'm an Engineer with 7+ years of professional development experience**, focused on designing and building reliable, secure, and scalable business applications.
 
 My primary ecosystem is **C# and .NET**, where I work across backend APIs, web applications, ERP systems, dashboards, mobile applications, databases, authentication systems, and production infrastructure.
 
@@ -43,6 +43,9 @@ SignalR
 Hangfire
 FluentValidation
 Serilog
+Docker
+RabbitMQ
+Mass-Transit
 ```
 
 ### Frontend
